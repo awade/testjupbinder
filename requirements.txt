@@ -1,0 +1,12 @@
+# This is a list of all the required python packages to run these notebooks.
+
+# Basic numbers
+numpy
+scipy
+
+# Data import
+pandas
+
+# User interface and display
+matplotlib
+ipywidgets
